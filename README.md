@@ -9,8 +9,6 @@ Events : These are the notifications raised by the publisher.
 
 [Diagram] - Problem and it's solution
 
-[RealLife Example] - for better understanding
-
 **Advantages:**
 1. Loose couplings
 2. Scalability
@@ -21,3 +19,5 @@ Events : These are the notifications raised by the publisher.
 **Disadvantages:**
 1. Delivery status - publishers have no knowledge of the status about the subscriber and vice versa.
 2. Subscribers and publishers increases would cause instabilities in the architecture.
+
+[RealLife Example] - for better understanding
