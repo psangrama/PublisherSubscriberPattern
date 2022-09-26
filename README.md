@@ -1,4 +1,4 @@
-# PublisherSubscriberPattern
+# Publisher Subscriber Design Pattern
 *Publisher Subscriber Design Pattern using event delegate*
 
 Publish-Subscribe or Pub-Sub is a flexible design pattern which allows disparate system components to interact with one another asynchronously and allows loose coupling of application components. This architecture can otherwise called as event-driven architecture as well. This usually comprise of three core components.
