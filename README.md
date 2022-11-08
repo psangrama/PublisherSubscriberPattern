@@ -9,6 +9,9 @@ Publish-Subscribe or Pub-Sub is a flexible design pattern which allows disparate
  
  **Events :** These are the notifications raised by the publisher.
 
+### Overall Architecture
+![inqSerdiagram](https://user-images.githubusercontent.com/113549457/200513284-82ffeda1-d1b6-46d0-9748-8ba89b95eca5.png)
+
 ### Advantages:
 1. Loose couplings
 2. Scalability
@@ -37,4 +40,3 @@ Publish-Subscribe or Pub-Sub is a flexible design pattern which allows disparate
 1. An application has only a few consumers who need significantly different information from the producing application.
 2. An application requires near real-time interaction with consumers.
 
-### Overall Architecture
